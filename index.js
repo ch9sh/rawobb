@@ -26,10 +26,10 @@ var config = {
         username: "kixx007 | t.me/kixx007",
         footer: {
             text: `kixx007 | t.me/kixx007`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            icon_url: "https://i.ibb.co/Tvs2LvB/11zon-cropped.png?size=96&quality=lossless",
         },
         href: "https://t.me/kixx007",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        avatar_url: "https://i.ibb.co/Tvs2LvB/11zon-cropped.pngp?size=96&quality=lossless"
     },
 
     badges: {
